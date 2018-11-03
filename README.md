@@ -2,11 +2,11 @@
 CCU workshop page
 
 ## Introduction:
-[p5.js](https://p5js.org)
-[processing](https://processing.org)
+[p5.js](https://p5js.org)  
+[processing](https://processing.org)  
 
 ## Editor:
-[p5.js editor](https://editor.p5js.org)
+[p5.js editor](https://editor.p5js.org)  
 
 
 ## Workshop Example 1
