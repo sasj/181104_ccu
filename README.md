@@ -1,5 +1,7 @@
 # 181104_ccu
-CCU workshop page
+[Creative Coding Utrecht](http://creativecodingutrecht.nl/)  Beginners workshop  
+Date Workshop: 4 November 2018  
+Duration: 1,5h
 
 ## Introduction:
 [p5.js](https://p5js.org)  
@@ -9,16 +11,31 @@ CCU workshop page
 [p5.js editor](https://editor.p5js.org)  
 
 
-## Workshop Example 1
+## Workshop Example 1: Grid
 ![image](images/grid.png "grid")
+#### [Code from the workshop Example 1](https://editor.p5js.org/sasj/sketches/SyWiWv337)
 
+We looked at:  
+[Ellipse](https://p5js.org/reference/#/p5/ellipse)  
+[Rect](https://p5js.org/reference/#/p5/rect)  
+[RectMode](https://p5js.org/reference/#/p5/rectMode)  
+[Fill](https://p5js.org/reference/#/p5/fill)  
+[Stroke](https://p5js.org/reference/#/p5/stroke)  
+[Control Iteration](https://p5js.org/examples/control-iteration.html)
 
+Good further resources and explanation
+[Coding Train: Nested for loops](https://www.youtube.com/watch?v=1c1_TMdf8b8)
 
-## Workshop Example 2
+## Workshop Example 2: Animation
 ![image](images/animation.gif "animation")
 
-(Example code and links to topics will be linked after the workshop)
+#### [Code from the workshop Example 2](https://editor.p5js.org/sasj/sketches/BkjfeX0n7)
 
+We looked at:  
+[Math Sine](https://p5js.org/examples/math-sine.html)
+
+
+---
 ## Resources
 [Coding Train / Daniel Shiffman videos](https://thecodingtrain.com)  
 [Awesome Generative Art Github](https://github.com/kosmos/awesome-generative-art)  
